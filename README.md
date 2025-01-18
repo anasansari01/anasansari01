@@ -10,6 +10,8 @@
 - 📫 How to reach me **anasansari056789@gmail.com**
 
 - ⚡ Fun fact **I'm Serious**
+  
+- 🧠 **I’m on a journey to discover my true Purpose.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
