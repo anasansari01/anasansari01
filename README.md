@@ -64,12 +64,6 @@
       <br>Tailwind CSS
     </td>
     <td align="center" width="100">
-      <a href="https://expressjs.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js" />
-      </a>
-      <br>Express.js
-    </td>
-    <td align="center" width="100">
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git" />
       </a>
@@ -99,24 +93,22 @@
       <br>TypeScript
     </td>
     <td align="center" width="100">
-      <a href="https://jestjs.io" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="45" height="45" alt="Jest" />
-      </a>
-      <br>Jest
-    </td>
-    <td align="center" width="100">
       <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>My SQL
+    <td align="center" width="100">
+      <a href="https://expressjs.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js" />
+      </a>
+      <br>Express.js
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
-      <br>Postman
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React" />
+      </a>
+      <br>React
     </td>
     <td align="center" width="100">
       <a href="https://nodejs.org" target="_blank">
@@ -130,11 +122,9 @@
       </a>
       <br>Python
     </td>
-    <td align="center" width="100">
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React" />
-      </a>
-      <br>React
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>My SQL
     </td>
   </tr>
   <tr>
@@ -145,14 +135,30 @@
       <br>Jasmine
     </td>
     <td align="center" width="100">
+      <a href="https://jestjs.io" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="45" height="45" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
+    <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
+      <br>Postman
     </td>
     <td align="center" width="100">
       <a href="https://www.docker.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker" />
       </a>
       <br>Docker
+    </td>
+    <td align="center" width="100">
+      <a href="https://kubernetes.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg" width="45" height="45" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
     </td>
   </tr>
 </table>
