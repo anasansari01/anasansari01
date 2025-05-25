@@ -3,7 +3,7 @@
 <h2 align="center"><samp>Hi 👋 I'm Anas</samp></h2>
 <h3 align="center"><samp>A web developer from India</samp></h3>
 
-<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
+<img align="center" alt="Coding" width="1000" src="https://github.com/anasansari01/images/blob/main/gif/mario-working.gif">
 
 <!-- Badge -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasansari01&label=Profile%20views&color=0e75b6&style=flat" alt="anasansari01" /> </p>
